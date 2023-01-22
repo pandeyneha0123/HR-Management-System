@@ -1,6 +1,7 @@
 package com.application;
 
 
+
 import java.sql.SQLException;
 import java.util.Scanner;
 
@@ -123,8 +124,7 @@ public class EmployeeLink {
 					default:
 						throw new IllegalArgumentException("Unexpected value: " + choice);
 				}
-				
-			}while(ordering);
-		}
+				}while(ordering);
 
+	}
 }
