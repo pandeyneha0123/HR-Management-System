@@ -6,4 +6,5 @@
  *
  */
 module Dao {
+	requires java.sql;
 }

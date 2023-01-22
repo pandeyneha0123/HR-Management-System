@@ -3,7 +3,6 @@ package com.useCase;
 
 import java.util.Scanner;
 import com.models.Department;
-import com.dao.DepartmentDao;
 import com.dao.DepartmentDaoImp;
 
 public class UpdateDepartmentUsecase {

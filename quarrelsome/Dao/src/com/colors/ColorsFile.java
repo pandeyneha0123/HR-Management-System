@@ -1,5 +1,6 @@
 package com.colors;
 
+
 public class ColorsFile {
 	
 	public static final String ANSI_RESET = "\u001B[0m";
@@ -139,6 +140,4 @@ public class ColorsFile {
 	    public static final String CYAN_BACKGROUND_BRIGHT = "\033[0;106m"; // CYAN
 	    public static final String WHITE_BACKGROUND_BRIGHT = "\033[0;107m"; // WHITE
 	    
-
-
 }
