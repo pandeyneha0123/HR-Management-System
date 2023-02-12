@@ -4,7 +4,7 @@ Introduction:
 ------------
 A human resource management system (HRMS) is a software application used to store employee information and support various human resource functions, such as benefits, payroll, recruiting, training, etc.
 
-Human Resource Management System is a combination of systems and processes that connect human resource management and information technology through HRMS software.
+Human Resource Managemen System is a combination of systems and processes that connect human resource management and information technology through HRMS software.
 
 Key Features:-
 --------------
