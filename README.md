@@ -10,7 +10,7 @@ Key Features:-
 --------------
 
 
-Employee Management,
+Employee Management
 Admin Can Add Department,
 Admin Can View All Department,
 Admin Can Update Department Details,
