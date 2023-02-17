@@ -15,7 +15,7 @@ Admin Can Add Department,
 Admin Can View All Department,
 Admin Can Update Department Details,
 Admin Can Update Employee Details,
-Admin Can Transfer Any Employee to Other Department,
+Admin Can Transfer Any Employee to Other Department
 Admin Can Approve & Reject Leave,
 -----------------------------------------------------
 
