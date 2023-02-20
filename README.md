@@ -28,7 +28,7 @@ Language used;_
 
 JAVA
 MySql
-GitHu
+GitHub
 
 ------------------------------------------------
 ER Diagram of HRMS
