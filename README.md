@@ -1,4 +1,4 @@
-Welcome to Human Resource Management Syste
+Welcome to Human Resource Management System
 -----------------------------------------------
 Introduction:
 ------------
